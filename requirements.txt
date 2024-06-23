@@ -1,0 +1,10 @@
+pandas
+transformers
+numpy
+langchain
+langchain_community
+python-dotenv
+huggingface_hub
+
+dspy-ai
+
